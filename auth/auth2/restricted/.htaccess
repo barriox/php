@@ -1,0 +1,4 @@
+AuthName "Debes registrarte para acceder"
+AuthType Basic
+AuthUserFile /home/alumno/usuarios/misUsuarios
+Require valid-user

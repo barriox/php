@@ -1,0 +1,5 @@
+AuthName "Debes registrarte para acceder"
+AuthType Basic
+AuthUserFile /home/alumno/usuarios/misUsuarios
+AuthGroupFile /home/alumno/usuarios/grupo_familia
+Require group grupo_familia

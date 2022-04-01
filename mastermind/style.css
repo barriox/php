@@ -1,0 +1,40 @@
+div{
+    width:10px;
+    display:inline-block;
+    padding:1rem;
+    margin-right: 2.5rem;
+}
+.bien{
+    border: solid 3px black;
+    border-radius: 15px;
+}
+.malo{
+    background:lime;
+}
+.mal{
+    background:red;
+}
+.red{
+    background:red
+}
+.blue{
+    background:blue
+}
+.brown{
+    background:brown
+}
+.yellow{
+    background:yellow
+}
+.pink{
+    background:pink
+}
+.purple{
+    background:purple
+}
+.green{
+    background:green
+}
+.orange{
+    background:orange
+}
